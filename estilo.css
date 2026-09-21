@@ -1,0 +1,11 @@
+body{
+    background:black;
+    color:yellow;
+    text-aling:center;
+    font-family:Arial;
+}
+#texto{
+     position:relative;
+     font-size:40px;
+     font-weight:bold;
+}
